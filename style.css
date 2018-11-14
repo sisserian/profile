@@ -24,6 +24,7 @@ body {
   background-size: cover;
   color: white;
   align-items: center;
+  align-content: center;
   display: flex;
   justify-content: space-around;
   flex-direction: row;
